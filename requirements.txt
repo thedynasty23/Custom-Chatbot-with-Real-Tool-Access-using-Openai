@@ -1,0 +1,14 @@
+# Core Dependencies
+langchain>=0.1.0
+openai>=1.0.0
+
+# Jupyter Notebook Support
+notebook
+ipykernel
+
+# Common Tools
+requests
+python-dotenv
+
+# Optional - API integrations (add as needed)
+serpapi
